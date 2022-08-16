@@ -1,0 +1,54 @@
+{
+    'Central region':
+        'Precentral gyrus, Precentral
+        Postcentral gyrus, Postcentral
+        Rolandic operculum, Rolandic_Oper',
+    'Frontal lobe':
+        'Superior frontal gyrus, dorsolateral, Frontal_Sup
+        Middle frontal gyrus, Frontal_Mid
+        Inferior frontal gyrus, opercular part, Frontal_Inf_Oper
+        Inferior frontal gyrus, triangular part, Frontal_Inf_Tri
+        Superior frontal gyrus, medial, Frontal_Sup_Medial
+        Supplementary motor area, Supp_Motor_Area
+        Paracentral lobule, Paracentral_Lobule
+        Superior frontal gyrus, orbital part, Frontal_Sup_Orb
+        Superior frontal gyrus, medial orbital, Frontal_Med_Orb
+        Middle frontal gyrus, orbital part, Frontal_Mid_Orb
+        Inferior frontal gyrus, orbital part, Frontal_Inf_Orb
+        Gyrus rectus, Rectus
+        Olfactory cortex, Olfactory',
+    'Temporal lobe':
+        'Superior temporal gyrus, Temporal_Sup
+        Heschl gyrus, Heschl
+        Middle temporal gyrus, Temporal_Mid
+        Inferior temporal gyrus, Temporal_Inf',
+    'Parietal lobe':
+        'Superior parietal gyrus, Parietal_Sup
+        Inferior parietal, but supramarginal and angular gyri, Parietal_Inf
+        Angular gyrus, Angular_L
+        Supramarginal gyrus, SupraMarginal
+        Precuneus, Precuneus_L',
+    'Occipital lobe':
+        'Superior occipital gyrus, Occipital_Sup_L
+        Middle occipital gyrus, Occipital_Mid_L
+        Inferior occipital gyrus, Occipital_Inf_L
+        Cuneus, Cuneus
+        Calcarine fissure and surrounding cortex, Calcarine
+        Lingual gyrus, Lingual
+        Fusiform gyrus, Fusiform',
+    'Limbic lobe':
+        'Temporal pole superior temporal gyrus, Temporal_Pole_Sup
+        Temporal pole middle temporal gyrus, Temporal_Pole_Mid
+        Anterior cingulate and paracingulate gyri, Cingulum_Ant_L
+        Median cingulate and paracingulate gyri, Cingulum_Mid_L
+        Posterior cingulate gyrus, Cingulum_Post
+        Hippocampus, Hippocampus
+        Parahippocampal gyrus, ParaHippocampal',
+    'Insula': 'Insula',
+    'Sub cortical gray nuclei':
+        'Amygdala, Amygdala
+        Caudate nucleus, Caudate
+        Lenticular nucleus, putamen, Putamen
+        Lenticular nucleus, pallidum, Pallidum
+        Thalamus, Thalamus'
+}

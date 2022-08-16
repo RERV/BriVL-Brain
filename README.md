@@ -1,7 +1,5 @@
 # BriVL-Brain
-## The code repository for our paper "Multimodal foundation models are better simulators of human brain than unimodal ones"
-
-#  Multimodal foundation models are better simulators of the human brain
+## The code repository for our paper "Multimodal foundation models are better simulators of the human brain"
 ## 0.Framework
 ```
 encoding_wenlan:.

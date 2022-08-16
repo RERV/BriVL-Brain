@@ -1,0 +1,29 @@
+MODEL:
+    NAME: VL
+    LEARNED_WEIGHT: False
+
+    ENCODER: 'bert-base-uncased'
+
+    IMG_FEATURE_DIM: 768   #  2048       #### b4: 1792    b5: 2048 l2: 5504
+
+    IMG_TRANSFORMER_HEAD: 4
+    IMG_TRANSFORMER_LAYER: 3
+    MAX_IMG_LEN: 26
+
+    # vit
+    IMG_FEATURE_DIM_vit: 768 
+    MAX_IMG_LEN_vit: 576 #[144 576]
+    VIT: 'vit_base_patch16_384'   
+    IMG_SIZE_vit: 384
+
+    TEXT_FEATURE_DIM: 0  # 768 
+    TEXT_TRANSFORMER_HEAD: 4
+    TEXT_TRANSFORMER_LAYER: 0
+
+
+    HIDDEN_DIM_1: 512
+    HIDDEN_DIM_2: 256
+
+    FIX_ENCODER: True
+    IS_EXTRACT: False    
+
